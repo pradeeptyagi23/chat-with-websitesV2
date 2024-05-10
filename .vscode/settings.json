@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./chatweb-api-server/packages"
+    ]
+}
